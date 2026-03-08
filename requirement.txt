@@ -1,0 +1,14 @@
+streamlit
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-groq
+langchain-text-splitters==0.2.2
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
+huggingface-hub
+transformers
+numpy
